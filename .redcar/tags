@@ -1,0 +1,5 @@
+1320482975
+Application	D:/Sites/sample_app/config/application.rb	  class Application 
+ApplicationController	D:/Sites/sample_app/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	D:/Sites/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
+SampleApp	D:/Sites/sample_app/config/application.rb	module SampleApp
