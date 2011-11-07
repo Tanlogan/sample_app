@@ -1,12 +1,15 @@
-1320694822
+1320696003
 Application	D:/Sites/sample_app/config/application.rb	  class Application 
 ApplicationController	D:/Sites/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	D:/Sites/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
 PagesController	D:/Sites/sample_app/app/controllers/pages_controller.rb	class PagesController 
 PagesHelper	D:/Sites/sample_app/app/helpers/pages_helper.rb	module PagesHelper
 SampleApp	D:/Sites/sample_app/config/application.rb	module SampleApp
+UsersController	D:/Sites/sample_app/app/controllers/users_controller.rb	class UsersController 
+UsersHelper	D:/Sites/sample_app/app/helpers/users_helper.rb	module UsersHelper
 about	D:/Sites/sample_app/app/controllers/pages_controller.rb	  def about
 contact	D:/Sites/sample_app/app/controllers/pages_controller.rb	  def contact
 help	D:/Sites/sample_app/app/controllers/pages_controller.rb	  def help
 home	D:/Sites/sample_app/app/controllers/pages_controller.rb	  def home
+new	D:/Sites/sample_app/app/controllers/users_controller.rb	  def new
 title	D:/Sites/sample_app/app/helpers/application_helper.rb	  def title
